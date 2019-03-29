@@ -1,35 +1,30 @@
-# Proposal DRAFT
+# Project Title
+Real Estate: Looking at the extremes and correlations with health factors
 
-# Project-1-Unique-Markets-in-Real-Estate
-
-## Project Title
-Real Estate: The search for places that are bucking the trend
-
-## Team members
+# Team members
 Amy
 Susi
 Rosina
 
-## Project Description/Outline
+# Project Description/Outline
+We hope to take a deep look at 2 groups, the counties with highest and and counties with lowest residential pricing by sq ft, specifically focusing on the subject of health. By looking for correlations between various health factors in the high and low price regions, we hope to find some trends that apply to both, and some to only one.
 
+# Research questions to answer
+What healthcare factors correlate with the regions of highest price per sq foot, and lowest? Are they different? Are they the same? Why could this be?
 
-## Research questions to answer
+# Datasets to be used
+Zillow
+County Health Ranking
+KFF.org (Kaiser Foundation)
+U.S. Census
+CDC
 
-What factors impact the difference between List Price and Sell Price, and where are the trends often “bucked”? Why could this be?
+# Tools to use
+Python, matplotlib, pandas, APIs
 
-By looking for correlations between various factors, some relating to location (such as crime or school rating) and some relating to the specific listing (such as Month and days on the market), and the difference between List Price and Sale Price of residences, we hope to find places where the correlation is unexpectedly broken, and theorize as to why.
-
-## Datasets to be used
-Zillow or Redfin: Sale-to-List ratio
-Zillow or Redfin: Month
-Zillow or Redfin: Days on Market
-U.S. Census: Commute Times
-FBI (or elsewhere?) : Crime
-GreatSchools: School rating
-
-## Rough breakdown of tasks
-Get data from different sources into CSVs.
-Data munging (into dataframes?)
-Visualizations
+# Rough breakdown of tasks
+Get data from different sources into CSVs
+Data munging (data frames)
+Visualizations (e.g. show disparities in regions)
 Analysis
 Summary

@@ -2,8 +2,8 @@
 A Healthy Look at Real Estate Demand
 
 # Team members
-Amy
-Susi
+Amy\
+Susi\
 Rosina
 
 # Project Description and Questions to Answer
@@ -16,19 +16,20 @@ How do health factors correlate to real estate demand?
 Higher demand may indicate a higher economic class and therefore a lifestyle which includes better access to healthcare and lower rates of lifestyle-related risks and conditions, such as smoking and obesity.
 
 # Datasets to be used
-Zillow
+Zillow\
 County Health Ranking
 
 # Tools to use
 Matplotlib.plotly, Pandas, Google Maps API
 
 # Rough breakdown of tasks
-Get data from different sources into CSVs
-Data munging (into data frames)
+
+Get data from different sources into CSVs\
+Data munging (into data frames)\
 Visualizations (e.g. show disparities in regions)
  - maps
  - bar
- - box
-Stats
- - p-values 
+ - box\
+Stats\
+ - p-values\
 Summary and conclusions

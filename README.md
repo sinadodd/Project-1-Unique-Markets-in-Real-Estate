@@ -32,6 +32,6 @@ Visualizations (e.g. show disparities in regions)
  - box 
  
 Stats
- - p-values\  
+ - p-values  
 
 Summary and conclusions

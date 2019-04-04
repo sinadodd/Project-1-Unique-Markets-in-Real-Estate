@@ -1,30 +1,34 @@
 # Project Title
-Real Estate: Looking at the extremes and correlations with health factors
+A Healthy Look at Real Estate Demand
 
 # Team members
 Amy
 Susi
 Rosina
 
-# Project Description/Outline
-We hope to take a deep look at 2 groups, the counties with highest and and counties with lowest residential pricing by sq ft, specifically focusing on the subject of health. By looking for correlations between various health factors in the high and low price regions, we hope to find some trends that apply to both, and some to only one.
+# Project Description and Questions to Answer
+We hope to take a deep look at 2 groups, the counties with highest and counties with lowest sale-to-list ratio, specifically focusing on the subject of health. By looking for correlations between various health factors in the high and low regions, we hope to find some trends that don't always align with the usual generalizations of "wealthy" and "poor" which are how choosing counties by median price would look.
 
 # Research questions to answer
-What healthcare factors correlate with the regions of highest price per sq foot, and lowest? Are they different? Are they the same? Why could this be?
+How do health factors correlate to real estate demand?
+
+# Hypothesis: 
+Higher demand may indicate a higher economic class and therefore a lifestyle which includes better access to healthcare and lower rates of lifestyle-related risks and conditions, such as smoking and obesity.
 
 # Datasets to be used
 Zillow
 County Health Ranking
-KFF.org (Kaiser Foundation)
-U.S. Census
-CDC
 
 # Tools to use
-Python, matplotlib, pandas, APIs
+Matplotlib.plotly, Pandas, Google Maps API
 
 # Rough breakdown of tasks
 Get data from different sources into CSVs
-Data munging (data frames)
+Data munging (into data frames)
 Visualizations (e.g. show disparities in regions)
-Analysis
-Summary
+ - maps
+ - bar
+ - box
+Stats
+ - p-values 
+Summary and conclusions

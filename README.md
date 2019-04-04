@@ -29,7 +29,9 @@ Data munging (into data frames)\
 Visualizations (e.g. show disparities in regions)
  - maps
  - bar
- - box\
-Stats\
- - p-values\
+ - box 
+ 
+Stats
+ - p-values\  
+
 Summary and conclusions
